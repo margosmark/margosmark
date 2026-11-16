@@ -23,5 +23,5 @@ mermaid diffs in PRs, no LLM in the hot path.
 
 ---
 
-🤖 Enthusiast of agent tooling — I run my own LLM gateway and contribute to
+🤖 Enthusiast of agent tooling — I run my own LLM gateway and build on
 [hermes-agent](https://github.com/NousResearch/hermes-agent).
